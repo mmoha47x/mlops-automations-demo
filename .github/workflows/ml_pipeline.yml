@@ -1,4 +1,4 @@
-name:shariq Pipeline
+name:ML Pipeline
 
 on:
   push:
